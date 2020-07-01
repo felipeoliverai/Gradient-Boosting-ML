@@ -10,5 +10,5 @@ Estudos sobre modelos de Gradient Boosting
 
 <br>
 
-![alt text](https://dzone.com/storage/temp/13069534-gradient-boosting-process.png)
+![alt text](https://www.fromthegenesis.com/wp-content/uploads/2019/05/XG3.jpg)
 
