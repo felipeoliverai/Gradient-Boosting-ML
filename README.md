@@ -10,5 +10,5 @@ Estudos sobre modelos de Gradient Boosting
 
 <br>
 
-![alt text](https://oralytics.files.wordpress.com/2020/04/screenshot-2020-04-14-14.16.19.png)
+![alt text](https://dzone.com/storage/temp/13069534-gradient-boosting-process.png)
 
