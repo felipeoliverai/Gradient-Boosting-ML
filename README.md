@@ -10,5 +10,5 @@ Estudos sobre modelos de Gradient Boosting
 
 <br>
 
-![alt text](https://s3.amazonaws.com/stackabuse/media/intro-to-neural-networks-scikit-learn-3.png)
+![alt text](https://www.fromthegenesis.com/wp-content/uploads/2019/05/XG3.jpg)
 
